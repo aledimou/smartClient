@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Intermediate\DownloadHTTP\DownloadHTTP\bin\Debug\netcoreapp3.1\DownloadHTTP.exe
+C:\Users\user\source\repos\Intermediate\DownloadHTTP\DownloadHTTP\bin\Debug\netcoreapp3.1\DownloadHTTP.deps.json
+C:\Users\user\source\repos\Intermediate\DownloadHTTP\DownloadHTTP\bin\Debug\netcoreapp3.1\DownloadHTTP.runtimeconfig.json
+C:\Users\user\source\repos\Intermediate\DownloadHTTP\DownloadHTTP\bin\Debug\netcoreapp3.1\DownloadHTTP.runtimeconfig.dev.json
+C:\Users\user\source\repos\Intermediate\DownloadHTTP\DownloadHTTP\bin\Debug\netcoreapp3.1\DownloadHTTP.dll
+C:\Users\user\source\repos\Intermediate\DownloadHTTP\DownloadHTTP\bin\Debug\netcoreapp3.1\DownloadHTTP.pdb
+C:\Users\user\source\repos\Intermediate\DownloadHTTP\DownloadHTTP\obj\Debug\netcoreapp3.1\DownloadHTTP.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Intermediate\DownloadHTTP\DownloadHTTP\obj\Debug\netcoreapp3.1\DownloadHTTP.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Intermediate\DownloadHTTP\DownloadHTTP\obj\Debug\netcoreapp3.1\DownloadHTTP.AssemblyInfo.cs
+C:\Users\user\source\repos\Intermediate\DownloadHTTP\DownloadHTTP\obj\Debug\netcoreapp3.1\DownloadHTTP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Intermediate\DownloadHTTP\DownloadHTTP\obj\Debug\netcoreapp3.1\DownloadHTTP.dll
+C:\Users\user\source\repos\Intermediate\DownloadHTTP\DownloadHTTP\obj\Debug\netcoreapp3.1\DownloadHTTP.pdb
+C:\Users\user\source\repos\Intermediate\DownloadHTTP\DownloadHTTP\obj\Debug\netcoreapp3.1\DownloadHTTP.genruntimeconfig.cache
